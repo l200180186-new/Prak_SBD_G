@@ -1,0 +1,15 @@
+1. data dibutuhkan sebagai mentah dari informasi
+2. Dengan menggunakan database maka data lebih mudah dibaca serta dilakukan operasi pada data tersebut.
+   melakukan polling secara besar.
+   mengumpulkan data kuantitatif pada suatu kegiatan
+3. relational(Mysql,MariaDB) dan non-relational(MonggoDB,NoSQL)
+   kemampuan data berkembang. struktur data , dan juga pengembangan data serta unit kerja di kemudian hari
+4. database : Satu wadah yang mengandung sebuah tabel/ beberapa tabel
+   table    : Sebuah wadah yang menyimpan objek. dapat diumpamakan sebagai entity
+   field    : sebuah kolom database melambangkan sifat / jenis informasi
+   record   : Object yang memiliki informasi dari field yang tersimpan di database
+5. manual   : mengalami kesulitan dalam mengambil data atau memodifikasi data dari 1 bentuk ke bentuk lain sulit menselect data tertentu saja
+   database : menggunakan struktur data yang dapat dipisahkan tiap propertinya
+6. DBMS digunakan sebagai salah satu tekhnik menyimpan data agar dapat mudah dibaca dan dilakukan operasi data tersebut. Data yang disimpan pul realibilitasnya terjaga karena setiap perubahan data selalu dilakukan oleh orang yang memiliki akses untuk edit 
+7. type data dasar seperti INT,VARCHAR,TEXT,DATE dapat menerima jumlah informasi yang banyak namun akan lebih boros memori penyimpanan serta pengaksesan dapat melambat.
+   Sehingga Tipe data dengan batasan tertentu pun bisa merupakan solusi dari masalah tadi. dengan membatasi jumlah data kita dapat mengurangi penggunaan memori serta mempercepat load
