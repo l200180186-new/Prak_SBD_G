@@ -14,3 +14,4 @@
 7. type data dasar seperti INT,VARCHAR,TEXT,DATE dapat menerima jumlah informasi yang banyak namun akan lebih boros memori penyimpanan serta pengaksesan dapat melambat.
    Sehingga Tipe data dengan batasan tertentu pun bisa merupakan solusi dari masalah tadi. dengan membatasi jumlah data kita dapat mengurangi penggunaan memori serta mempercepat load
    Sifat dari Masing masing type data pun berbeda.
+ 
